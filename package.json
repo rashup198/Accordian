@@ -1,0 +1,25 @@
+{
+  "name": "asd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+   "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashup198/Accordian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashup198/Accordian/issues"
+  },
+  "homepage": "https://github.com/rashup198/Accordian#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.2.1"
+  }
+}
