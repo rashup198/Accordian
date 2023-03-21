@@ -27,6 +27,7 @@ body{
 
 .icon{
     margin-right: 16px;
+    transition: transform 0.5s;
 }
 .icon.active{
     transform:rotate(-180deg) ;
@@ -35,6 +36,7 @@ body{
     color: #666;
     max-height: 0;
     overflow: hidden;
+    transition: max-height 0.7s;
 }
 .answer.active{
     max-height: 200px;
